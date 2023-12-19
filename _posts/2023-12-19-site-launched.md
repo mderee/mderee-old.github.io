@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Hank Quinlan, Horrible Cop, Launches Site"
+title: "Marcus de Ree, Information Security Researcher, Launches His Personal Website"
 date: 2023-12-19
 ---
 
