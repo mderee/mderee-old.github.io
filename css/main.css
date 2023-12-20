@@ -25,14 +25,8 @@ h1 {
 }
 p {
     font-size: 1.1em;
-    font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
-    line-height: 1em;
-    color: #333;
-}
-p2 {
-    font-size: 1.1em;
-    font-family: 'Trebuchet MS', 'Arial', 'Sans-Serif';
-    line-height: 1.5em;
+    font-family: 'Tahoma', 'Arial', 'Sans-Serif';
+    line-height: 1.3em;
     color: #333;
 }
 footer {
