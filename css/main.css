@@ -25,7 +25,8 @@ h1 {
 }
 p {
     font-size: 1.1em;
-    font-family: 'Bierstadt', 'Arial', 'Sans-Serif';
+    font-family: 'Georgia', 'Arial', 'Sans-Serif';
+    padding: 2px;
     line-height: 1em;
     color: #333;
 }
